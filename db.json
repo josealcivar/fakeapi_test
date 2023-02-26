@@ -25,6 +25,23 @@
 "postId": 1
 }
 ],
+  "usuarios": [
+{
+"id": 1,
+"usuario": "admin@gfuncrisa.com",
+"password": "1234"
+},
+{
+"id": 2,
+"usuario": "guardia@gfuncrisa.com",
+"password": "1234"
+},
+{
+"id": 3,
+"usuario": "doctor@gfuncrisa.com",
+"password": "1234"
+}
+],
   "agendamientos":[
     {
       "FECHA_CITA": "06/02/2023",
