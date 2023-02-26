@@ -29,16 +29,19 @@
 {
 "id": 1,
 "usuario": "admin@gfuncrisa.com",
+  "role":"admin",
 "password": "1234"
 },
 {
 "id": 2,
 "usuario": "guardia@gfuncrisa.com",
+  "role":"guardia",
 "password": "1234"
 },
 {
 "id": 3,
 "usuario": "doctor@gfuncrisa.com",
+  "role":"doctor",
 "password": "1234"
 }
 ],
