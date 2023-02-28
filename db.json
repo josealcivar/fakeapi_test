@@ -30,19 +30,22 @@
 "id": 1,
 "usuario": "admin@funcrisa.com",
   "role":"admin",
-"password": "1234"
+"password": "1234",
+  "status":'A'
 },
 {
 "id": 2,
 "usuario": "guardia@funcrisa.com",
   "role":"guardia",
-"password": "1234"
+"password": "1234",
+  "status":'A'
 },
 {
 "id": 3,
 "usuario": "doctor@funcrisa.com",
   "role":"doctor",
-"password": "1234"
+"password": "1234",
+  "status":'A'
 }
 ],
   "agendamientos":[
@@ -57,7 +60,7 @@
       "DESC_PROCEDENCIA": "FUNCRISA",
       "COD_SERVICIO": "EXP",
       "DESC_SERVICIO": "EXPLORATORIA",
-      "STATUS": "FAT",
+      "STATUS": "AGE",
       "ES_EMERGENCIA": "N",
       "NRO_HIST_CLIN": "H61136",
       "OBSERVACIONES": "**PASAR POR OPT",
@@ -153,7 +156,7 @@
       "DESC_PROCEDENCIA": "FUNCRISA",
       "COD_SERVICIO": "EXP",
       "DESC_SERVICIO": "EXPLORATORIA",
-      "STATUS": "FAT",
+      "STATUS": "AGE",
       "ES_EMERGENCIA": "N",
       "NRO_HIST_CLIN": "H19907",
       "COD_AGENDA": 24212,
