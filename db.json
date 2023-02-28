@@ -31,21 +31,21 @@
 "usuario": "admin@funcrisa.com",
   "role":"admin",
 "password": "1234",
-  "status":'A'
+  "status":"A"
 },
 {
 "id": 2,
 "usuario": "guardia@funcrisa.com",
   "role":"guardia",
 "password": "1234",
-  "status":'A'
+  "status":"A"
 },
 {
 "id": 3,
 "usuario": "doctor@funcrisa.com",
   "role":"doctor",
 "password": "1234",
-  "status":'A'
+"status":"A"
 }
 ],
   "agendamientos":[
