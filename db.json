@@ -29,14 +29,14 @@
 {
 "id": 1,
 "usuario": "admin@funcrisa.com",
-  "role":"admin",
+  "role":"Admin",
 "password": "1234",
   "status":"A"
 },
 {
 "id": 2,
 "usuario": "guardia@funcrisa.com",
-  "role":"guardia",
+  "role":"Guardia",
   "nombre":"Rodrigo Mora",
 "password": "1234",
   "status":"A"
@@ -44,7 +44,7 @@
 {
 "id": 3,
 "usuario": "doctor@funcrisa.com",
-  "role":"médico",
+  "role":"Médico",
   "nombre":"José Perez",
 "password": "1234",
 "status":"A"
