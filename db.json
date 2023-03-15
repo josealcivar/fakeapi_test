@@ -44,7 +44,7 @@
 {
 "id": 3,
 "usuario": "doctor@funcrisa.com",
-  "role":"medico",
+  "role":"médico",
   "nombre":"José Perez",
 "password": "1234",
 "status":"A"
