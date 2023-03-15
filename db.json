@@ -37,13 +37,15 @@
 "id": 2,
 "usuario": "guardia@funcrisa.com",
   "role":"guardia",
+  "nombre":"José Perez",
 "password": "1234",
   "status":"A"
 },
 {
 "id": 3,
 "usuario": "doctor@funcrisa.com",
-  "role":"doctor",
+  "role":"medico",
+  "nombre":"José Perez",
 "password": "1234",
 "status":"A"
 }
