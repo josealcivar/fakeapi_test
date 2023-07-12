@@ -1,12 +1,14 @@
 {
 "posts": [
 {
-"id": 1,
-"title": "Post 1"
+"cedula": "0926973892",
+"nombres": "Jose Andre",
+"Apellidos": "Alcivar Garcia"
 },
 {
-"id": 2,
-"title": "Post 2"
+"cedula": "0928955673",
+"nombres": "Carlos Martinez",
+"Apellidos": "Peñaherrera"
 },
 {
 "id": 3,
